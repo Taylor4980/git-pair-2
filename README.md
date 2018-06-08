@@ -11,3 +11,6 @@ Taylor - Removed Main.css
 Fion - Created heythere.html and linked it to index.html
 
 Taylor - delted heythere.html and unlinked from index.html
+
+Fion - created main.js
+
